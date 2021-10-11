@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/MyCustomView/app/src/main/res/drawable-v24/shape_date_picker_dialog.xml" value="0.24635416666666668" />
         <entry key="..\:/Android/MyCustomView/app/src/main/res/layout/activity_main.xml" value="0.19630192502532928" />
         <entry key="..\:/Android/MyCustomView/app/src/main/res/layout/item_date_picker_button.xml" value="0.30434782608695654" />
+        <entry key="..\:/Android/MyCustomView/app/src/main/res/layout/item_date_picker_content.xml" value="0.19630192502532928" />
         <entry key="..\:/Android/MyCustomView/app/src/main/res/layout/item_date_picker_title.xml" value="0.23020833333333332" />
       </map>
     </option>
