@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyDatePicker">
+        <attr name="DisplayItemsCount" format="integer" />
+        <attr name="Enabled" format="boolean" />
+    </declare-styleable>
+</resources>
